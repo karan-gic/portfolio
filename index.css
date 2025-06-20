@@ -1,0 +1,118 @@
+.profile-section{
+    background-image: url(KARAN9.jpg);
+    padding: 2rem;
+}
+
+.welcome-msg{
+        text-align: center;
+    margin-top: 0px;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.my-role{
+        text-align: center;
+    margin-top: 70px;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+   margin-top:20px;
+}
+.my-name-title{
+        text-align: center;
+    margin-top: 70px;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top:150px;
+}
+.profile-pic {
+    width: 10rem;
+    position: fixed;
+    border-radius: 100%;
+    top: 2rem;
+    left: 2rem;
+}
+
+.profile-pic2 {
+    width: 25rem;
+    border-radius: 100%;
+}
+
+.about-section{
+    padding: 2rem;
+}
+.first{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: inherit;
+}
+.hello{
+    color: green;
+    font-size: 50px
+}
+.second{
+    font-weight: bold;
+    font-size: 30px;
+    font-style: inherit;
+    margin-left: 50px;
+}
+.my-skills{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+
+    
+}
+.programming{
+     color: green;
+    font-size: 50px;
+    text-align: center;
+}
+.computer{
+     width: 22rem; 
+     margin-left: 50px; 
+
+}
+.table{
+    width: 100%;
+
+}
+
+.table td{
+    padding: 2rem;
+}
+
+.table td:nth-child(1){
+    text-align: right;
+}
+
+.table td:nth-child(2){
+    text-align: left;
+}
+.Spirituality{
+color: green;
+    font-size: 50px;
+    text-align:left;
+   
+}  
+.third{
+    margin-left:150px;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: inherit;
+}
+.hare-rama{
+    font-style: oblique;
+    font-weight:100;
+   margin-right:150px;
+   text-align: center;
+
+}
+.hare-krishna-hare-rama{
+     width: 22rem; 
+     margin-left: 50px; 
+
+}
